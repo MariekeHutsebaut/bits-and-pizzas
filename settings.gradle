@@ -1,0 +1,2 @@
+rootProject.name = "Bits And Pizzas"
+include ':app'
