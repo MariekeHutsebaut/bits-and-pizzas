@@ -8,6 +8,19 @@
     <string name="pizza_tab">Pizzas</string>
     <string name="pasta_tab">Pasta</string>
     <string name="store_tab">Stores</string>
+    <string name="order_name_hint">Please enter your name</string>
+    <string name="order_details_hint">Please enter your order</string>
+
+
+
+    <string name="company_name">Bits and Pizzas</string>
+    <string name="restaurant_image">Restaurant image</string>
+    <string name="home_text">Proin imperdiet blandit felis, egestas euismod neque tempor quis. Aenean vestibulum sapien
+        fringilla, commodo ex a, tincidunt nunc. Praesent placerat urna at lectus sodales, vitae congue metus laoreet.
+        Donec eget ipsum gravida, fringilla diam et, pretium ex. Integer ac varius justo, a mattis erat. Morbi
+        sollicitudin, libero non viverra consequat, velit augue pharetra arcu, non ornare nunc est vitae nisl. Fusce et
+        augue gravida, fermentum lorem suscipit, tristique dui.
+    </string>
 
     <string-array name="pizzas">
         <item>Diavolo</item>
